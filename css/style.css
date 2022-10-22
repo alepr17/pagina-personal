@@ -1,0 +1,18 @@
+* {
+  border-radius: 10px;
+}
+
+.contenedor {
+  background-color: gray;
+}
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+p {
+  display: inline-block;
+}
+
+/*# sourceMappingURL=style.css.map */
