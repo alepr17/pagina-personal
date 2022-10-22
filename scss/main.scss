@@ -1,11 +1,18 @@
 //main
 *{
     border-radius: 10px;
-    color: red;
+}
+.fondo{
+    background-color: #eecb3f
 }
 .contenedor{
-    background-color: gray;
-    
+    background-color: #444;
+}
+.altura{
+    height: 100%;
+}
+.hidden{
+    overflow: hidden;
 }
 img{
     width: 100%;

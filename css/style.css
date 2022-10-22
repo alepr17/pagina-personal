@@ -1,18 +1,21 @@
 * {
-  border-radius: 10px;
-}
+  border-radius: 10px; }
+
+.fondo {
+  background-color: #eecb3f; }
 
 .contenedor {
-  background-color: gray;
-}
+  background-color: #444; }
+
+.altura {
+  height: 100%; }
+
+.hidden {
+  overflow: hidden; }
 
 img {
   width: 100%;
-  border-radius: 10px;
-}
+  border-radius: 10px; }
 
 p {
-  display: inline-block;
-}
-
-/*# sourceMappingURL=style.css.map */
+  display: inline-block; }
